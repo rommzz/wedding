@@ -26,11 +26,11 @@ function HelloSection({ isInvitation }) {
           </div>
           <div className="couple-wrap">
             <div className="couple-half">
-              <div className="groom">
+              {/* <div className="groom">
                 <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
-              </div>
+              </div> */}
               <div className="desc-groom">
-                <h3 className="main-font">Dinda Saraswati, S.I.Kom.</h3>
+                <h3 className="main-font">Ganis Yulia Maharani</h3>
                 <p className="parent-name parent-name__top">
                   Putri Bapak Totok Somo Dipoyono <br />& Ibu Setyo Listiani
                 </p>
@@ -43,11 +43,11 @@ function HelloSection({ isInvitation }) {
               <i>&</i>
             </div>
             <div className="couple-half">
-              <div className="bride">
+              {/* <div className="bride">
                 <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
-              </div>
+              </div> */}
               <div className="desc-bride">
-                <h3 className="main-font">Indra Kusuma, S.Kom.</h3>
+                <h3 className="main-font">Rommy Zohara Shoma</h3>
                 <p className="parent-name">
                   Putra Bapak Bunari <br />& Ibu Suratun
                 </p>
